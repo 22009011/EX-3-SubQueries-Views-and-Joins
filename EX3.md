@@ -1,5 +1,10 @@
 # EX 3 SubQueries, Views and Joins 
 
+## AIM:
+
+SubQueries, Views and Joins.
+## DATE:
+
 
 ## Create employee Table
 ```sql
@@ -194,3 +199,6 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 
 ### right join:
 ![270860293-7fe7c05b-ca77-4da2-9ab9-38a5f50a4879](https://github.com/22009011/EX-3-SubQueries-Views-and-Joins/assets/118343461/355f2759-cb68-4181-8a2f-a3ce38def468)
+
+### RESULT:
+Thus , the output has been successfully verified.
